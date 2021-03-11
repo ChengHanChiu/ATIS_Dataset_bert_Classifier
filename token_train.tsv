@@ -1,0 +1,4 @@
+text	entities/0/start	entities/0/end	entities/0/value	entities/0/entity	entities/1/start	entities/1/end	entities/1/value	entities/1/entity	entities/2/start	entities/2/end	entities/2/value	entities/2/entity	entities/3/start	entities/3/end	entities/3/value	entities/3/entity
+列出所有從西雅圖到名古屋航班	5	7	西雅圖	fromloc.city_name	9	11	名古屋	toloc.city_name								
+從台灣到日本的頭等艙票價。	1	2	台灣	fromloc.city_name	4	5	日本	toloc.city_name	7.0	9.0	頭等艙	class_type				
+告訴我長榮航空06:00從台灣飛往香港的航班型號。	3	6	長榮航空	airline_name	7	11	06:00	depart_time.time	13.0	14.0	台灣	fromloc.city_name	17.0	18.0	香港	toloc.city_name
